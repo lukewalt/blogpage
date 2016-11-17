@@ -3,7 +3,10 @@
 
 section {
   border: 1px solid black;
+}
 
+#title {
+  text-align: center;
 }
 
 #artc-1 {
@@ -12,9 +15,9 @@ section {
   font-size: 15px;
   color: black;
   line-height: 15px;
-  padding: ;
-  border: ;
-  border-radius: ;
+  padding: 1px;
+  border: 2px solid black;
+  border-radius: 12px;
 }
 
 #artc-2 {
@@ -23,9 +26,9 @@ section {
   font-size: 13.5px;
   color: white;
   line-height: 16px;
-  padding: ;
-  border: ;
-  border-radius: ;
+  padding: 2px;
+  border: 2px solid black;
+  border-radius: 14px;
 }
 
 #artc-3 {
@@ -34,20 +37,20 @@ section {
   font-size: 13px;
   color: darkblue;
   line-height: 17px;
-  padding: ;
-  border: ;
-  border-radius: ;
+  padding: 20.5px;
+  border: 2px solid black;
+  border-radius: 50px;
 }
 
 #artc-4 {
   background-color: lightgreen;
   font-family: fantasy;
   font-size: 12.5px;
-  color: ;
+  color: purple;
   line-height: 17.5px;
-  padding: orange;
-  border: ;
-  border-radius: ;
+  padding: 3px;
+  border: 2px solid black;
+  border-radius: 16px;
 }
 
 #artc-5 {
@@ -56,7 +59,7 @@ section {
   font-size: 14px;
   color: darkgreen;
   line-height: 17.9px;
-  padding: ;
-  border: ;
-  border-radius: ;
+  padding: 3.5px;
+  border: 2px solid black;
+  border-radius: 15px;
 }
